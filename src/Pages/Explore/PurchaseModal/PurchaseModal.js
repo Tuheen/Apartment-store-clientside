@@ -44,7 +44,7 @@ const PurchaseModal = ({openPurchase, handlePurchaseClose, product, setPurchaseS
         }
 
             console.log(exploreProduct);
-    fetch('http://localhost:5000/explore', {
+    fetch('https://infinite-ocean-37825.herokuapp.com/explore', {
         method:'POST',
         headers:{
             'content-type':'application/json'

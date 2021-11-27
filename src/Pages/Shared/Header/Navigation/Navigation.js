@@ -28,7 +28,7 @@ const Navigation = () => {
                 <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
                     Digital Apartment Store
                 </Typography>
-                <Link style={{textDecoration: 'none'}} to="/explore">
+                <Link style={{textDecoration: 'none', color: 'white'}} to="/explore">
                     <Button color="inherit">Explore <br /> Apartments</Button>
                 </Link>
                 {
