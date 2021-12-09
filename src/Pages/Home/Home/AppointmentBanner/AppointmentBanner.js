@@ -2,7 +2,6 @@ import React from 'react';
 import Box from '@mui/material/Box';
 import Paper from '@mui/material/Paper';
 import Grid from '@mui/material/Grid';
-import doctor from '../../../../images/doctor.png'
 import bg from '../../../../images/appointment-bg.jpg'
 import { Container, Typography } from '@mui/material';
 import { Button } from '@mui/material';
