@@ -7,4 +7,4 @@ Feature to check:
 1. You can manage the store as admin
 2. You can delete orders
 3. You can manage product addition 
-4. An admin can make other user as admin 
+4. An admin can make other user an admin 
